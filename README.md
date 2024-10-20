@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DL/ML/CV**
 
-- 📫 How to reach me **linkdein**
+- 📫 How to reach me [linkdein:](https://www.linkedin.com/in/petros-symeon-599899201/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
