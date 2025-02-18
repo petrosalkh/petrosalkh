@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Petros Symeon</h1>
 <h3 align="center">PhD Candidate in Engineering | Specializing in Graphene-Based Optoelectronics</h3>
 
-- 🔭 I’m currently working on **Graphene Integrated Photonics Components**
+- 🔭 I’m currently working on **Graphene Integrated Photonics**
 
 - 🌱 I’m currently learning **DL/ML/CV**
 
